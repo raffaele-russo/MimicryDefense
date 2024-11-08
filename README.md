@@ -1,2 +1,4 @@
 # MimicryDefense
-Presentation for my MSc Thesis
+
+**Presentation for MSc Thesis:**  
+*Evaluating Artist Protection Methods Against Style Mimicry by Diffusion Models*
